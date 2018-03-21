@@ -20,7 +20,7 @@ public class PruebaJenkins {
         System.out.println("Hola mundo");
         
         while (true){
-            i="Hola";
+            
         }
     }
     
