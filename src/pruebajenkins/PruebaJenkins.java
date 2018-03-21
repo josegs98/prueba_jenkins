@@ -16,9 +16,11 @@ public class PruebaJenkins {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int i=0;
         System.out.println("Hola mundo");
+        
         while (true){
-            
+            i="Hola";
         }
     }
     
