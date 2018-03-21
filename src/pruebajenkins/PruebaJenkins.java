@@ -19,9 +19,7 @@ public class PruebaJenkins {
         
         System.out.println("Nada");
         
-        while (true){
-            
-        }
+        
     }
     
 }
